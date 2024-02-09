@@ -1,1 +1,1 @@
-# DSA_with_JS ⚡️
+# DSA with JS ⚡️
